@@ -45,4 +45,6 @@ Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga bu
 • Sebelum masuk kepada programnya, saya akan menampilkan terlebih dahulu Flowchartnya. Berikut ini adalah flowchartnya :<br/>
 ![ss.png](Screentgs7/ss10.png)<br/>
 • Jika dimasukkan kedalam program maka akan jadi seperti ini :<br/>
-
+![ss.png](Screentgs7/ss11.png)<br/>
+• Dan hasil RUN nya akan seperti ini :<br/>
+![ss.png](Screentgs7/ss12.png)<br/>

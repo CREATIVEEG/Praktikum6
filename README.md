@@ -59,4 +59,15 @@ Perintah dari Latihan1 adalah menampilkan n bilangan acak yang lebih kecil dari 
 • Lalu untuk program nya sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss14.png)<br/>
 • Dengan hasil RUN nya adalah seperti :<br/>
-![ss.png](Screentgs7/ss15.png)<br/>
+![ss.png](Screentgs7/ss15.png)<br/><br/>
+**Latihan 2**<br/>
+Pada Latihan 2, perintah yang harus dijalankan adalah menampilkan bilangan terbesar yang dinputkan, jumlah input akan terus terulang dan akan berhenti jika input n adalah 0.<br/>
+• Adapun Flowchartnya adalah sebagai berikut :<br/>
+![ss.png](Screentgs7/ss16.png)<br/>
+• Jika dibuat kedalam program akan seperti ini :<br/>
+**Input tidak akan berhenti jika nilai yang dimasukan bukan 0.*<br/>
+**Jika input 0, maka program perulangan akan berhenti.*<br/>
+**Lalu program akan menentukan bilangan yang terbesar.*<br/>
+![ss.png](Screentgs7/ss17.png)<br/>
+• Dengan hasil setelah RUN adalah seperti ini :<br/>
+![ss.png](Screentgs7/ss18.png)<br/>

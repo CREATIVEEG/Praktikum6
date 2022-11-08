@@ -65,9 +65,9 @@ Pada Latihan 2, perintah yang harus dijalankan adalah menampilkan bilangan terbe
 • Adapun Flowchartnya adalah sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss16.png)<br/>
 • Jika dibuat kedalam program akan seperti ini :<br/>
-**Input tidak akan berhenti jika nilai yang dimasukan bukan 0.*<br/>
-**Jika input 0, maka program perulangan akan berhenti.*<br/>
-**Lalu program akan menentukan bilangan yang terbesar.*<br/>
+*Input tidak akan berhenti jika nilai yang dimasukan bukan 0.*<br/>
+*Jika input 0, maka program perulangan akan berhenti.*<br/>
+*Lalu program akan menentukan bilangan yang terbesar.*<br/>
 ![ss.png](Screentgs7/ss17.png)<br/>
 • Dengan hasil setelah RUN adalah seperti ini :<br/>
 ![ss.png](Screentgs7/ss18.png)<br/>

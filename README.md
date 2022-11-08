@@ -1,7 +1,7 @@
 # Praktikum 6
 | DAFTAR ISI  | LINKS |
 | ------------- | ------------- |
-| Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6/edit/master/README.md#struktur-kondisi-dan-perulangan)  |
+| Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-2--struktur-kondisi)  |
 | Content Cell  | Content Cell  |
 
 ## STRUKTUR KONDISI DAN PERULANGAN

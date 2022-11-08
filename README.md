@@ -7,6 +7,7 @@
 |  4 | Labspy03  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy03) |
 
 ## KONDISIONAL DAN PERULANGAN
+
 ### Lab 2 : Struktur Kondisi
 #### Latihan 1
 Pada Latihan 1. Disini kita membuat sebuah program sederhana dengan input 2 buah bilangan, kemudian menentukan bilangan terbesar dari kedua bilangan tersebut dengan menggunakan statement if.<br />
@@ -22,6 +23,7 @@ Latihan 2, kita akan mengurutkan data dari yang terkecil ke terbesar, berdasarka
 ![ss.png](Screentgs7/ss3.png)<br/>
 • Maka hasil RUN nya akan seperti ini :<br/>
 ![ss.png](Screentgs7/ss4.png)<br/>
+
 ### Lab 3 : Perulangan
 #### Latihan 1
 Pada Latihan 1. Perintahnya adalah membuat program perulangan bertingkat ( nested ) for, yang menghasilkan output sebagai berikut :<br/>
@@ -41,6 +43,7 @@ Untuk latihan 2, programnya adalah menampilkan bilangan acak yang lebih kecil da
 Itulah isi dari kondisional dan perulangan, jika ada kesalahan mohon maaf, dan terimakasih sudah membaca.
 
 ## MODUL PRAKTIKUM 2 DAN 3
+
 ### PRAKTIKUM 2
 #### Labspy02
 Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga buah bilangan. Lalu menentukan bilangan terbesar dari ketiga bilangan tersebut.<br/>
@@ -50,6 +53,7 @@ Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga bu
 ![ss.png](Screentgs7/ss11.png)<br/>
 • Dan hasil RUN nya akan seperti ini :<br/>
 ![ss.png](Screentgs7/ss12.png)<br/>
+
 ### PRAKTIKUM 3
 #### Labspy03
 **Latihan 1**<br/>
@@ -65,9 +69,25 @@ Pada Latihan 2, perintah yang harus dijalankan adalah menampilkan bilangan terbe
 • Adapun Flowchartnya adalah sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss16.png)<br/>
 • Jika dibuat kedalam program akan seperti ini :<br/>
-*Input tidak akan berhenti jika nilai yang dimasukan bukan 0.*<br/>
-*Jika input 0, maka program perulangan akan berhenti.*<br/>
-*Lalu program akan menentukan bilangan yang terbesar.*<br/>
+*-Input tidak akan berhenti jika nilai yang dimasukan bukan 0.*<br/>
+*-Jika input 0, maka program perulangan akan berhenti.*<br/>
+*-Lalu program akan menentukan bilangan yang terbesar.*<br/>
 ![ss.png](Screentgs7/ss17.png)<br/>
 • Dengan hasil setelah RUN adalah seperti ini :<br/>
-![ss.png](Screentgs7/ss18.png)<br/>
+![ss.png](Screentgs7/ss18.png)<br/><br/>
+**Program 1**<br/>
+Program yang akan dibuat adalah "menghitung jumlah laba yang didapatkan dengan modal awal 100 juta".<br/>
+• Flowchart untuk program ini adalah :<br/>
+![ss.png](Screentgs7/ss19.png)<br/>
+• Program Python nya seperti ini :<br/>
+![ss.png](Screentgs7/ss20.png)<br/>
+• Maka... Hasil RUN nya akan seperti ini :<br/>
+![ss.png](Screentgs7/ss21.png)<br/>
+
+## PENUTUP
+Sekian tugas pertemuan 7 atau praktikum 6 yang sudah saya kerjakan. Mohon maaf jika ada kesalahan dalam program - flowchart - ataupun penulisan. Bagi semua yang sudah melihat dan membaca repository ini, saya ucapkan Terimakasih...<br/><br/>
+
+**Nama**    : Rhendy Diki Nugaraha<br/>
+**NIM**     : 312210150<br/>
+**Kelas**   : TI.22.A1<br/>
+**Dosen**   : Agung Nugroho, S.Kom, M.Kom<br/>

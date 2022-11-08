@@ -1,10 +1,10 @@
 # Praktikum 6
 | No | DAFTAR ISI  | LINKS |
 |-------------| ------------- | ------------- |
-| 1 | Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-2--struktur-kondisi)  |
-| 2 | Lab3 : Perulangan  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-3--perulangan) |
-| 3 | Labspy02  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy02) |
-| 4 | Labspy03  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy03) |
+|  1 | Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-2--struktur-kondisi)  |
+|  2 | Lab3 : Perulangan  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-3--perulangan) |
+|  3 | Labspy02  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy02) |
+|  4 | Labspy03  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy03) |
 
 ## KONDISIONAL DAN PERULANGAN
 ### Lab 2 : Struktur Kondisi
@@ -50,4 +50,13 @@ Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga bu
 ![ss.png](Screentgs7/ss11.png)<br/>
 • Dan hasil RUN nya akan seperti ini :<br/>
 ![ss.png](Screentgs7/ss12.png)<br/>
+### PRAKTIKUM 3
 #### Labspy03
+**Latihan 1**
+Perintah dari Latihan1 adalah menampilkan n bilangan acak yang lebih kecil dari 0.5, untuk nilai n diinput pada saat RUN program.<br/>
+• Untuk Flowchartnya adalah sebagai berikut :<br/>
+![ss.png](Screentgs7/ss13.png)<br/>
+• Lalu untuk program nya sebagai berikut :<br/>
+![ss.png](Screentgs7/ss14.png)<br/>
+• Dengan hasil RUN nya adalah seperti :<br/>
+![ss.png](Screentgs7/ss15.png)<br/>

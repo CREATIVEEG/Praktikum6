@@ -1,8 +1,10 @@
 # Praktikum 6
-| DAFTAR ISI  | LINKS |
-| ------------- | ------------- |
-| Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-2--struktur-kondisi)  |
-| Lab3 : Perulangan  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-3--perulangan) |
+| No | DAFTAR ISI  | LINKS |
+|-------------| ------------- | ------------- |
+| 1 | Lab2 : Struktur Kondisi  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-2--struktur-kondisi)  |
+| 2 | Lab3 : Perulangan  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#lab-3--perulangan) |
+| 3 | Labspy02  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy02) |
+| 4 | Labspy03  | [Menuju Kesini](https://github.com/RhendyDikiN/Praktikum6#labspy03) |
 
 ## KONDISIONAL DAN PERULANGAN
 ### Lab 2 : Struktur Kondisi
@@ -48,3 +50,4 @@ Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga bu
 ![ss.png](Screentgs7/ss11.png)<br/>
 • Dan hasil RUN nya akan seperti ini :<br/>
 ![ss.png](Screentgs7/ss12.png)<br/>
+#### Labspy03

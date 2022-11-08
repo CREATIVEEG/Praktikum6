@@ -27,14 +27,14 @@ Pada Latihan 1. Perintahnya adalah membuat program perulangan bertingkat ( neste
  Langkah pembuatan program<br/>
 • Untuk menghasilkan output seperti diatas, maka membutuhkan program seperti ini :<br/>
 ![ss.png](Screentgs7/ss6.png)<br/>
-• Dengan hasil RUN sebagai berikut :
+• Dengan hasil RUN sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss7.png)<br/>
 #### Latihan 2
 Untuk latihan 2, programnya adalah menampilkan bilangan acak yang lebih kecil dari 0.5, dengan bilangan sesuai yang kita inputkan.
  Langkah pembuatan program<br/>
 • Program untuk menjalankan perintah tersebut adalah :<br/>
 ![ss.png](Screentgs7/ss8.png)<br/>
-• Dengan hasil RUN sebagai berikut :<br/><br/>
+• Dengan hasil RUN sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss9.png)<br/><br/>
 Itulah isi dari kondisional dan perulangan, jika ada kesalahan mohon maaf, dan terimakasih sudah membaca.
 

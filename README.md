@@ -38,5 +38,11 @@ Untuk latihan 2, programnya adalah menampilkan bilangan acak yang lebih kecil da
 ![ss.png](Screentgs7/ss9.png)<br/><br/>
 Itulah isi dari kondisional dan perulangan, jika ada kesalahan mohon maaf, dan terimakasih sudah membaca.
 
-## MODUL 2 ( STRUKTUR KONDISI )
-### 
+## MODUL PRAKTIKUM 2 DAN 3
+### PRAKTIKUM 2
+#### Labspy02
+Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga buah bilangan. Lalu menentukan bilangan terbesar dari ketiga bilangan tersebut.<br/>
+• Sebelum masuk kepada programnya, saya akan menampilkan terlebih dahulu Flowchartnya. Berikut ini adalah flowchartnya :<br/>
+![ss.png](Screentgs7/ss10.png)<br/>
+• Jika dimasukkan kedalam program maka akan jadi seperti ini :<br/>
+

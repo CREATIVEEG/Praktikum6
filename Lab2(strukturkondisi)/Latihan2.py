@@ -1,3 +1,5 @@
+#RhendyDikiNugraha
+
 print("______Mengurutkan bilangan dari yang terkecil ke yang terbesar______")
 print("Masukan 3 bilangan yang akan diurutkan:")
 a = int(input("masukkan bilangan 1 = "))

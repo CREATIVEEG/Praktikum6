@@ -34,7 +34,7 @@ Untuk latihan 2, programnya adalah menampilkan bilangan acak yang lebih kecil da
  Langkah pembuatan program<br/>
 • Program untuk menjalankan perintah tersebut adalah :<br/>
 ![ss.png](Screentgs7/ss8.png)<br/>
-• Dengan hasil RUN sebagai berikut :<br/>
+• Dengan hasil RUN sebagai berikut :<br/><br/>
 ![ss.png](Screentgs7/ss9.png)<br/><br/>
 Itulah isi dari kondisional dan perulangan, jika ada kesalahan mohon maaf, dan terimakasih sudah membaca.
 

@@ -52,7 +52,7 @@ Tugas pada praktikum 2 ini, yaitu membuat program sederhana dengan input tiga bu
 ![ss.png](Screentgs7/ss12.png)<br/>
 ### PRAKTIKUM 3
 #### Labspy03
-**Latihan 1**
+**Latihan 1**<br/>
 Perintah dari Latihan1 adalah menampilkan n bilangan acak yang lebih kecil dari 0.5, untuk nilai n diinput pada saat RUN program.<br/>
 • Untuk Flowchartnya adalah sebagai berikut :<br/>
 ![ss.png](Screentgs7/ss13.png)<br/>
